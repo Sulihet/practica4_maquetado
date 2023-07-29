@@ -1,0 +1,30 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(89, 5, 157);
+    color: white;
+    text-align: center;
+}
+
+
+button {
+    background-color: white;
+    color: purple;
+    height: 35px;
+    width: 180px;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.Social-media__container > img {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+@media only screen and (max-width:600px) {
+    body {
+
+    }
+}
